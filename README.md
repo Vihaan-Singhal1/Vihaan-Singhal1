@@ -133,13 +133,13 @@ My work spans Machine Learning & AI Research, full-stack web apps, cross-platfor
 ## Playable Mini Game
 
 <div align="center">
-  <a href="https://vihaan-singhal1.github.io/dino/">
+  <a href="https://vihaan-singhal1.github.io/Vihaan-Singhal1/dino/index.html">
     <img src="./docs/dino/preview.svg" width="100%" alt="Vihaan Runner game preview"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://vihaan-singhal1.github.io/dino/">
+  <a href="https://vihaan-singhal1.github.io/Vihaan-Singhal1/dino/index.html">
     <img src="https://img.shields.io/badge/Play%20Vihaan%20Runner%20Level%201-111827?style=for-the-badge" alt="Play Vihaan Runner"/>
   </a>
   <a href="https://github.com/Vihaan-Singhal1/Vihaan-Singhal1/tree/main/docs/dino">
