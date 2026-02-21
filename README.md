@@ -28,8 +28,7 @@
 ## About
 
 I am a developer and applied AI builder focused on machine learning, secure systems, and end-to-end product development.
-My work spans deepfake detection research, post-quantum cryptography experiments, full-stack web apps, and cross-platform mobile development.
-I also contribute to projects at McMaster Artificial Intelligence Society, with experience in data pipelines, deployment workflows, and model benchmarking.
+My work spans Machine Learning & AI Research, full-stack web apps, cross-platform mobile development and post-quantum cryptography experiments.
 
 <!-- Section: Stack -->
 
@@ -134,13 +133,13 @@ I also contribute to projects at McMaster Artificial Intelligence Society, with 
 ## Playable Mini Game
 
 <div align="center">
-  <a href="https://vihaan-singhal1.github.io/Vihaan-Singhal1/dino/">
+  <a href="https://vihaan-singhal1.github.io/dino/">
     <img src="./docs/dino/preview.svg" width="100%" alt="Vihaan Runner game preview"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://vihaan-singhal1.github.io/Vihaan-Singhal1/dino/">
+  <a href="https://vihaan-singhal1.github.io/dino/">
     <img src="https://img.shields.io/badge/Play%20Vihaan%20Runner%20Level%201-111827?style=for-the-badge" alt="Play Vihaan Runner"/>
   </a>
   <a href="https://github.com/Vihaan-Singhal1/Vihaan-Singhal1/tree/main/docs/dino">
