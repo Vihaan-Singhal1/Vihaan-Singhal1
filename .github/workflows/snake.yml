@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Generate Contribution Snake
 
 on:
@@ -7,14 +8,43 @@ on:
   push:
     branches:
       - main
+=======
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+>>>>>>> 42aa26c (Changes to readme)
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+<<<<<<< HEAD
     timeout-minutes: 10
 
     steps:
       - name: Generate snake animation
+=======
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVGs
+>>>>>>> 42aa26c (Changes to readme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,10 +52,24 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+<<<<<<< HEAD
       - name: Push output to output branch
+=======
+      - name: Verify generated files
+        run: |
+          ls -la dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push snake to output branch
+>>>>>>> 42aa26c (Changes to readme)
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+<<<<<<< HEAD
+=======
+          keep_history: true
+>>>>>>> 42aa26c (Changes to readme)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
