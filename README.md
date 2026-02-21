@@ -1,383 +1,150 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vihaan%20Singhal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20%26%20Business%20%40%20McMaster%20%7C%20Builder%20%7C%20Hackathon%20Veteran&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
-<img src="static/2.jpeg" width="100" height="100" style="border-radius:50%" alt="QuantaMail Logo"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Post-Quantum+Cryptography+Enthusiast+%F0%9F%94%92;AI+%26+Computer+Vision+Builder+%F0%9F%A4%96;McMaster+CS+%26+Business+Student+%F0%9F%8E%93;Always+building+something+new...+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
 
-# QuantaMail
+<br/>
 
-### Post-Quantum Encrypted Email, Built From Scratch
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Gmail API](https://img.shields.io/badge/Gmail_API-OAuth2-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
-[![bcrypt](https://img.shields.io/badge/bcrypt-Password_Hashing-00A896?style=for-the-badge)](https://pypi.org/project/bcrypt/)
-[![LWE](https://img.shields.io/badge/LWE-Post--Quantum_Crypto-7C3AED?style=for-the-badge)](https://en.wikipedia.org/wiki/Learning_with_errors)
-[![NIST PQC](https://img.shields.io/badge/NIST_PQC-Compliant_Family-0EA5E9?style=for-the-badge)](https://csrc.nist.gov/projects/post-quantum-cryptography)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-*Encrypt your emails with an algorithm that even quantum computers can't break.*
-
-[Features](#-features) · [How It Works](#-how-the-encryption-works) · [Architecture](#-architecture) · [Run Locally](#-running-locally) · [Security](#-security)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ivihaan-singhal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vihaan-singhal.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vihaan-Singhal1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+</div>
 
 ---
+
+## 👋 About Me
+
+```python
+vihaan = {
+    "degree":    "Computer Science & Business @ McMaster University 🍎",
+    "location":  "Hamilton, Ontario, Canada 🇨🇦",
+    "interests": ["Full-Stack Dev", "Post-Quantum Crypto", "AI/ML", "Hackathons"],
+    "currently": "Building quantum-resistant encrypted email & emergency response tools",
+    "ask_me":    "Anything about React, Python, Flask, or breaking encryption 🔐",
+}
+```
+
+---
+
+## 🚀 Currently Building
+
+<div align="center">
+
+| 🔒 QuantaMail | 🚨 LifeSaver |
+|:---:|:---:|
+| Post-quantum encrypted email using **LWE cryptography** — same algorithm family as the 2024 NIST post-quantum standard | Real-time emergency incident reporting with **auto-triage scoring** & live Leaflet map — built at McMaster Hackathon |
+| ![Python](https://img.shields.io/badge/Python-Flask-blue?style=flat-square&logo=python) ![LWE](https://img.shields.io/badge/LWE-Post--Quantum-purple?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-React-blue?style=flat-square&logo=typescript) ![Node](https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=node.js) |
+| [View Repo →](https://github.com/Vihaan-Singhal1/QuantaMail) | [View Repo →](https://github.com/Vihaan-Singhal1/LifeSaver_Final) |
 
 </div>
 
-## 📸 Screenshots
+---
 
-> **Add your screenshots here after running the app locally.**
->
-> Suggested shots:
-> - Login page (`/`) — dark themed, with the quantum badge
-> - Compose tab — showing the "LWE encryption will be applied" indicator
-> - Inbox tab — showing a decrypted message with the 🔒 badge
->
-> To add: drag images into `screenshots/` and update these paths.
+## 🛠 Tech Stack
 
-| Login | Dashboard — Compose | Dashboard — Inbox |
-|:---:|:---:|:---:|
-| `screenshots/login.png` | `screenshots/compose.png` | `screenshots/inbox.png` |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## ✨ Features
+## 📊 GitHub Stats
 
-- 🔒 **LWE post-quantum encryption** — message body encrypted before it ever leaves your machine
-- 📬 **Gmail integration** — send via SMTP, read via Gmail API OAuth 2.0
-- 🧑‍💼 **User accounts** — sign up, log in, sessions managed securely
-- 🛡 **bcrypt password hashing** — passwords never stored in plaintext
-- 🗄 **Zero-setup database** — SQLite, no database server needed
-- 🌑 **Dark quantum UI** — custom-built dark theme with animated grid background
-- 📦 **Portable** — runs on any machine with Python 3.10+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihaan-Singhal1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihaan-Singhal1&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
----
-
-## 🔬 How the Encryption Works
-
-> *Based on independent research into lattice-based cryptography and post-quantum security.*
-
-### The Problem With Today's Encryption
-
-Every email you send with standard Gmail is encrypted in transit using **RSA** or **Elliptic Curve Cryptography (ECC)**. These algorithms are secure today — but they have a fatal flaw: their security rests on how hard it is for a computer to **factor large numbers** or solve the **discrete logarithm problem**.
-
-In 1994, mathematician Peter Shor proved that a sufficiently powerful **quantum computer** could solve both of these problems in polynomial time — making RSA and ECC completely breakable.
-
-```
-Classical computer attacking RSA-2048:
-  Time estimate: ~300 trillion years ✅ Safe
-
-Quantum computer (Shor's algorithm) attacking RSA-2048:
-  Time estimate: ~hours ❌ Completely broken
-```
-
-QuantaMail uses a fundamentally different class of cryptography that remains hard even for quantum computers.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihaan-Singhal1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="150" />
+</div>
 
 ---
 
-### Learning With Errors (LWE)
+## 🏆 GitHub Trophies
 
-LWE is a **lattice-based** cryptographic primitive first formalised by Oded Regev in 2005. Its security is based on the hardness of a completely different problem — one that has no known quantum speedup.
-
-**The core idea:** Given a system of linear equations with small random errors added to each result, it is computationally infeasible to recover the original secret — even with a quantum computer.
-
-```
-Without errors (easy to solve — just linear algebra):
-  a₁·s = b₁
-  a₂·s = b₂
-  a₃·s = b₃
-
-With errors added (hard — this is LWE):
-  a₁·s + e₁ = b₁   where e₁ ∈ {0, 1}
-  a₂·s + e₂ = b₂   where e₂ ∈ {0, 1}
-  a₃·s + e₃ = b₃   where e₃ ∈ {0, 1}
-```
-
-The noise terms `e` are tiny, but they destroy the clean linear structure that would let an attacker solve the system. No known classical *or quantum* algorithm can efficiently recover `s`.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vihaan-Singhal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
 
 ---
 
-### QuantaMail's LWE Implementation
+## 🐍 Contribution Snake
 
-**Key generation:**
-
-```
-Parameters:
-  n = 1024       (vector dimension)
-  q = 65536      (modulus, 2¹⁶)
-  e ∈ {0, 1}     (small error values)
-
-1. Sample random public vector:   a ← Zqⁿ
-2. Sample secret key:             s ← Zqⁿ
-3. Sample error vector:           e ← {0,1}ⁿ
-4. Compute public key:            b = (a·s + e) mod q
-```
-
-**Encrypting one bit `m` (0 or 1):**
-
-```
-1. Sample ephemeral vector:   r ← {0,1}ⁿ
-2. Compute ciphertext pair:
-     c₁ = r·a         mod q
-     c₂ = r·b + m·(q/2)  mod q
-```
-
-**Decrypting:**
-
-```
-1. Compute:   v = c₂ - c₁·s   mod q
-2. Round:     if |v - 0| < |v - q/2|  → m = 0
-              else                    → m = 1
-```
-
-The rounding works because the error `e` is small relative to `q/2`. The noise shifts `v` slightly away from 0 or `q/2`, but not enough to push it past the halfway threshold — so we can always recover the correct bit.
-
-**For full messages**, each character is encoded as 8 bits, each bit is encrypted independently, and messages longer than 128 characters are split into blocks:
-
-```
-"Hello, World!" (13 chars)
-       ↓
-  104 bits (13 × 8)
-       ↓
-  104 separate LWE encryptions
-       ↓
-  c1[104], c2[104]  — the ciphertext
-       ↓
-  Transmitted as a Python dict string over email body
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vihaan-Singhal1/Vihaan-Singhal1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vihaan-Singhal1/Vihaan-Singhal1/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Vihaan-Singhal1/Vihaan-Singhal1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-### Why LWE Is Quantum-Resistant
+## 🎯 Featured Projects
 
-The reason LWE resists quantum attacks comes down to the geometry of high-dimensional lattices. Finding the secret `s` in an LWE instance is equivalent to solving the **Shortest Vector Problem (SVP)** in a lattice — finding the shortest non-zero vector in a high-dimensional grid.
+<div align="center">
 
-```
-Security comparison across attack models:
+[![QuantaMail](https://github-readme-stats.vercel.app/api/pin/?username=Vihaan-Singhal1&repo=QuantaMail&theme=tokyonight&hide_border=true)](https://github.com/Vihaan-Singhal1/QuantaMail)
+[![LifeSaver](https://github-readme-stats.vercel.app/api/pin/?username=Vihaan-Singhal1&repo=LifeSaver_Final&theme=tokyonight&hide_border=true)](https://github.com/Vihaan-Singhal1/LifeSaver_Final)
 
-Algorithm        Classical Attack    Quantum Attack (Grover/Shor)
-─────────────────────────────────────────────────────────────────
-RSA-2048         ~2¹¹² ops          ~polynomial  ← BROKEN
-ECC-256          ~2¹²⁸ ops          ~polynomial  ← BROKEN
-AES-256          ~2²⁵⁶ ops          ~2¹²⁸ ops    ✓ Still ok
-LWE (n=1024)     ~2¹⁰⁰ ops          ~2¹⁰⁰ ops    ✓ Quantum-safe
-─────────────────────────────────────────────────────────────────
-```
-
-*For LWE, the best known quantum algorithm offers no asymptotic advantage over classical attacks — the hardness of the lattice problem is preserved.*
-
----
-
-### Performance Profile
-
-Encryption is more expensive than RSA for short messages, but scales predictably. Here's the approximate cost per character on a standard laptop CPU:
-
-```
-Encryption time vs message length (approx, Python, n=1024):
-
-  10 chars  | ████░░░░░░░░░░░░░░░░  ~0.3s
-  50 chars  | ████████░░░░░░░░░░░░  ~1.4s
- 100 chars  | ████████████░░░░░░░░  ~2.8s
- 200 chars  | ████████████████░░░░  ~5.5s  (crosses block boundary)
- 500 chars  | ████████████████████  ~14s
-
-Note: This implementation is pure Python for transparency/education.
-A production system (e.g. CRYSTALS-Kyber in C) runs ~1000× faster.
-```
-
-**Security margin vs key size:**
-
-```
-LWE Dimension (n)  |  Security Level   |  Used In
-───────────────────────────────────────────────────────
-     256           |   ~80-bit         |  Lightweight IoT
-     512           |   ~100-bit        |  General use
-    1024  ◄ours    |   ~128-bit        |  QuantaMail
-    2048           |   ~192-bit        |  CRYSTALS-Kyber (NIST)
-    4096           |   ~256-bit        |  High-security applications
-```
-
----
-
-### NIST Post-Quantum Cryptography Standardisation
-
-In 2022, NIST completed a 6-year evaluation of post-quantum cryptographic algorithms. The primary encryption standard they selected was **CRYSTALS-Kyber** — a Key Encapsulation Mechanism (KEM) built directly on top of LWE (specifically a variant called **Module-LWE**).
-
-```
-NIST PQC Standards (2024):
-
-  Encryption/KEM:
-    ✅ CRYSTALS-Kyber (ML-KEM)   ← Module-LWE — same family as QuantaMail
-
-  Digital Signatures:
-    ✅ CRYSTALS-Dilithium (ML-DSA)
-    ✅ FALCON (FN-DSA)
-    ✅ SPHINCS+ (SLH-DSA)
-
-  Evaluated but not selected:
-    ✗ NTRU        (lattice, different problem)
-    ✗ Classic McEliece  (code-based)
-    ✗ SIKE        (isogeny-based, later broken)
-```
-
-QuantaMail's `algorithm.py` implements the foundational LWE scheme that underpins the NIST standard — built from scratch to demonstrate understanding of the underlying mathematics.
-
----
-
-## 🏗 Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                     Browser / Client                        │
-└─────────────────────────┬───────────────────────────────────┘
-                          │  HTTP
-┌─────────────────────────▼───────────────────────────────────┐
-│                    Flask (app.py)                           │
-│                                                             │
-│  GET /          → login.html                               │
-│  POST /login    → verify_user() → session                  │
-│  GET /dashboard → fetch + decrypt → dashboard.html         │
-│  POST /send_mail→ encrypt → SMTP send                      │
-│  GET /logout    → session.clear()                          │
-└──────┬──────────────────┬──────────────────┬───────────────┘
-       │                  │                  │
-┌──────▼──────┐  ┌────────▼───────┐  ┌──────▼──────────────┐
-│ database.py │  │ algorithm.py   │  │  gmail_service.py   │
-│             │  │                │  │                     │
-│ SQLite      │  │ LWE Encrypt    │  │  Gmail OAuth 2.0    │
-│ bcrypt      │  │ LWE Decrypt    │  │  Token caching      │
-│ users table │  │ Block chunking │  │  Message parsing    │
-└─────────────┘  └────────┬───────┘  └──────────────────── ┘
-                          │
-                 ┌────────▼───────┐
-                 │    smtp.py     │
-                 │                │
-                 │ Gmail SMTP     │
-                 │ .env creds     │
-                 └────────────────┘
-```
-
-**File structure:**
-
-```
-quantamail/
-├── app.py               ← Flask app, all routes
-├── algorithm.py         ← LWE post-quantum encryption
-├── database.py          ← SQLite + bcrypt user management
-├── gmail_service.py     ← Gmail API OAuth wrapper
-├── smtp.py              ← Email sending via SMTP
-├── requirements.txt     ← Python dependencies
-├── .env.example         ← Secrets template (copy → .env)
-├── .gitignore
-├── templates/
-│   ├── login.html
-│   ├── signup.html
-│   └── dashboard.html
-└── static/
-    ├── style.css        ← Auth pages (dark theme)
-    ├── dashboard.css    ← Dashboard layout
-    └── 2.jpeg           ← Logo
-```
-
----
-
-## 🚀 Running Locally
-
-### Prerequisites
-
-- Python 3.10+
-- A Gmail account with a [Gmail App Password](https://support.google.com/accounts/answer/185833)
-
-### 1 — Clone & create virtual environment
-
-```bash
-git clone https://github.com/YOUR_USERNAME/quantamail.git
-cd quantamail
-
-python3 -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-```
-
-### 2 — Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3 — Configure environment
-
-```bash
-cp .env.example .env
-```
-
-Open `.env` and fill in:
-
-```env
-SECRET_KEY=any-long-random-string
-SMTP_USER=your-gmail@gmail.com
-SMTP_PASSWORD=your-app-password
-```
-
-### 4 — Run
-
-```bash
-python app.py
-```
-
-Visit **[http://localhost:8000](http://localhost:8000)**
-
-### 5 — (Optional) Enable inbox reading
-
-To read encrypted emails in the inbox tab, you need a Gmail API credential:
-
-1. Go to [Google Cloud Console](https://console.cloud.google.com/) → create a project
-2. Enable the **Gmail API**
-3. Create **OAuth 2.0 credentials** → download as `credentials.json`
-4. Place `credentials.json` in the project root
-5. On first inbox load, a browser window will open to authenticate — after that, the token is cached
-
----
-
-## 🛡 Security
-
-| Layer | Implementation |
-|---|---|
-| Message encryption | LWE (Learning With Errors), n=1024, q=2¹⁶ |
-| Password storage | bcrypt (cost factor 12) |
-| Session management | Flask server-side sessions with secret key |
-| SMTP credentials | Environment variables via `.env`, never hardcoded |
-| Gmail OAuth | Token cached in `token.pickle`, excluded from Git |
-| `.gitignore` | Excludes `.env`, `credentials.json`, `token.pickle`, `venv/` |
-
-**Note on the LWE parameters:** The parameters `n=1024, q=65536` provide approximately 128-bit classical security. This implementation is written in pure Python for readability and demonstration. A production deployment would use a compiled library like `liboqs` implementing CRYSTALS-Kyber.
-
----
-
-## 📦 Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Language | Python 3.10+ |
-| Web framework | Flask 3.0 |
-| Cryptography | Custom LWE (algorithm.py) |
-| Database | SQLite via `sqlite3` |
-| Password hashing | bcrypt |
-| Email send | `smtplib` (Gmail SMTP) |
-| Email read | Google Gmail API v1 (OAuth 2.0) |
-| HTML parsing | BeautifulSoup4 |
-| Frontend | HTML5, CSS3 (custom dark theme) |
-| Secrets management | python-dotenv |
-
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE)
+</div>
 
 ---
 
 <div align="center">
-
-*Built to explore post-quantum cryptography applied to real-world communication.*
-*The encryption algorithm in this project belongs to the same mathematical family as the 2024 NIST post-quantum standard.*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
